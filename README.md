@@ -1,7 +1,5 @@
 # Redux Add to Favorites App
 
-## 🔗 [**Live Demo**](https://search-university-app.netlify.app/)
-
 ## How to start?
 
 ```
