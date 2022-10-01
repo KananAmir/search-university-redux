@@ -1,6 +1,6 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { useDispatch, useSelector, } from 'react-redux';
-import { Input, Row, Col, Divider, Table, Button } from 'antd';
+import { Input, Row, Col, Divider, Table } from 'antd';
 import 'antd/dist/antd.min.css';
 import { searchUniversityAction } from './redux/actions/university.actions';
 import Loading from './components/loading'
