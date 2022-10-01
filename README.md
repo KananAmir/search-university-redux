@@ -1,4 +1,4 @@
-# Redux Add to Favorites App
+# Search Universities App
 
 ## How to start?
 
