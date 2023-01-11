@@ -13,7 +13,7 @@ function App() {
 
   useEffect(() => {
     dispatch(searchUniversityAction(searchValue));
-  }, []);
+  }, [dispatch, searchValue]);
 
   const columns = [
     {
